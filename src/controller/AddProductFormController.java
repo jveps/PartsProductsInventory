@@ -33,7 +33,7 @@ import model.Product;
  * Controls the Add Product Form. 
  * Allows the user to add products to the inventory.
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class AddProductFormController implements Initializable {
     Stage stage;
