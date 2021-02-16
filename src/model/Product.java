@@ -11,7 +11,7 @@ import javafx.collections.ObservableList;
 /**
  * This class creates Products.
  * This class creates and modifies products.
- * @author Jessie Van Epps
+ * @author jveps
  * 
  */
 public class Product {
