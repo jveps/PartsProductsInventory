@@ -26,7 +26,7 @@ import model.Product;
  * add the part "Logic Board" to the product "AirPods" with no error, although there should be one. Adding additional
  * attributes to parts that only allow them to be associated with certain products could prevent this from happening.
  *
- * @author Jessie Van Epps
+ * @author jveps
  * 
  
  */
