@@ -30,7 +30,7 @@ import model.Part;
  * Controls the Add Part Form.
  * Allows the user to add parts to the inventory.
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class AddPartFormJFXController implements Initializable {
     Stage stage;
