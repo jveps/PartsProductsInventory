@@ -11,7 +11,7 @@ package model;
 
 /**
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public abstract class Part {
     private int id;
