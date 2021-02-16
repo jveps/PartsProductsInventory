@@ -33,7 +33,7 @@ import model.Product;
  * This class controls the Main Form.
  * Allows a user to manage the inventory of parts and products.
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class MainFormJFXController implements Initializable {
     
