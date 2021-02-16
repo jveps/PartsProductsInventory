@@ -33,7 +33,7 @@ import model.Product;
  * This class controls the Modify Product Form. 
  * Allows the user to modify products.
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class ModifyProductFormController implements Initializable {
     
