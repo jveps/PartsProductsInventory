@@ -8,7 +8,7 @@ package model;
 /**
  * This class creates InHouse parts.
  * This class creates and modifies parts and their attributes.
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class InHouse extends Part {
     
