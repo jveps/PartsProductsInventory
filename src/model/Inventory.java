@@ -11,7 +11,7 @@ import javafx.collections.ObservableList;
 /**
  * This class creates and modifies the Inventory.
  * Allows the user to modify the contents of the inventory.
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class Inventory {
     
