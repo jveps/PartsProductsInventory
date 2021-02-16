@@ -30,7 +30,7 @@ import model.Outsourced;
  * This class controls the Modify Part Form. 
  * Allows the user to modify parts in the inventory.
  *
- * @author Jessie Van Epps
+ * @author jveps
  */
 public class ModifyPartFormController implements Initializable {
     
